@@ -13,3 +13,4 @@ for i in range(0,x):
     if b!=0:
         p.append(o[i])
 print("odd no.=",p)
+print("goodbye")
